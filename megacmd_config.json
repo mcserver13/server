@@ -1,0 +1,9 @@
+{
+  "backup_folder": "/backups",
+  "server_folder": "servidor_minecraft",
+  "max_backups": 5,
+  "backup_interval_minutes": 1,
+  "backup_prefix": "MSX",
+  "autobackup_enabled": true,
+  "debug_enabled": false
+}
